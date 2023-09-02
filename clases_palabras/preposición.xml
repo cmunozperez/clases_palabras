@@ -37,13 +37,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -124,13 +124,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -211,13 +211,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -298,13 +298,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -385,13 +385,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -472,13 +472,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -559,13 +559,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -646,13 +646,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -733,13 +733,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -820,13 +820,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -907,13 +907,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -994,13 +994,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -1081,13 +1081,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -1168,13 +1168,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -1255,13 +1255,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -1342,13 +1342,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
@@ -1429,13 +1429,13 @@
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
     </correctfeedback>
     <partiallycorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
     </partiallycorrectfeedback>
     <incorrectfeedback format="html">
-      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
     </incorrectfeedback>
     <shownumcorrect></shownumcorrect>
     <answer fraction="100.0" format="html">
