@@ -17,4 +17,4 @@ El repositorio contiene preguntas organizadas en ocho categorías principales, c
 
 ## Ejemplo de Pregunta
 
-![Descripción de la imagen](Images/img1.png)
+![Example](Images/img1.png)
