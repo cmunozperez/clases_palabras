@@ -1,0 +1,4709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$module$/top/adjetivo</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>grande</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>bueno</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>nuevo</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>viejo</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>alto</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>pequeño</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>fuerte</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>diferente</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>posible</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>importante</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>necesario</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>corto</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>largo</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>claro</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>oscuro</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>siguiente</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>segundo</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>primero</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>amistoso</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>familiar</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>profesional</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>académico</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>laboral</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>social</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>romántico</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>filial</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>matrimonial</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>sentimental</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>aberrante</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>caduco</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>déspota</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>efímera</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>fastuoso</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>gélido</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>heterodoxa</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>insulso</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>jocosa</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>lúgubre</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>morbosa</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>pedestre</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>quimérico</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>rupestre</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>truculento</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>honestas</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>inteligentes</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 46</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>leales</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 47</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>pacientes</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>poderosas</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 49</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>radiantes</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 50</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>sabias</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 51</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>sensibles</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 52</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>vigorosas</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 53</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>virtuosas</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name format="txt">
+      <text>adjetivo 54</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indique a qué clase de palabra pertenece <strong><em>vivaces</em></strong>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+    <penalty>0.0</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <responseformat>editorfilepicker</responseformat>
+    <responserequired>0</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <attachments>-1</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est correcte.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est partiellement correcte.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Votre réponse est incorrecte.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect></shownumcorrect>
+    <answer fraction="100.0" format="html">
+      <text><![CDATA[<p>adjetivo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>nombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>verbo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>adverbio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>pronombre</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>conjunción</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>preposición</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0.0" format="html">
+      <text><![CDATA[<p>artículo</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
